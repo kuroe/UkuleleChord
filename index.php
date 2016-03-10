@@ -1,3 +1,4 @@
+// test git hub change
 <?php
 $notes = Array("C"=>"C", "Csharp"=>"C#", "D"=>"D", "Eflat"=>"Eb", "E"=>"E", "F"=>"F", "Fsharp"=>"F#", "G"=>"G", "Aflat"=>"Ab", "A"=>"A", "Bflat"=>"Bb", "B"=>"B");
 $types = Array("M"=>"major", "m"=>"minor", "dim"=>"diminished", "sus2"=> "sus 2", "sus4"=>"sus 4", "7"=>"7", "M7"=>"M7", "m7"=>"m7", "mM7"=>"mM7", "add9"=>"add 9");
